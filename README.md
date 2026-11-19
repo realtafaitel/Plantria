@@ -1,5 +1,5 @@
 # 🌱 Plantria (Originally Plant Health Plus) 
-_note: that's plant and alexandria (that's from the Library of Alexandria) merged together_
+_note: that's plant and alexandria (as in the Library of Alexandria) merged together_
  
 <p align="center">
   <img src="image.jpg" alt="New Splash"/>

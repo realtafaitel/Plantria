@@ -3,8 +3,10 @@ _note: that's plant and alexandria (that's from the Library of Alexandria) merge
  
 A desktop app for keeping track of your houseplants, built with C++17 and Qt. Add plants, log their care, and check weather conditions, all stored locally on your machine.
 
-## To-do List
-- Replace deprecated HTML scraping with proper Weather-based APIs to improve overall app efficiency.
+## Current To-do List
+- Replace deprecated HTML scraping with proper Weather-based API capabilities; there's better ways to collect the information needed for this app.
+   - Update how plant data behaves as a consequence of these changes (e.g. how it interacts with weather changes).
+- Deprecate Login feature; there's absolutely no need for it.
 
 # For current deployment:
 

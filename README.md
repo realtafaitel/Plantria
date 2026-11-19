@@ -1,8 +1,7 @@
-<p align="center"><i> note: that's plant and alexandria (as in the Library of Alexandria) merged together </i></p>
- 
 <p align="center">
   <img src="image.jpg" alt="New Splash"/>
 </p>
+<p align="center"><i> note: that's plant and alexandria (as in the Library of Alexandria) merged together </i></p>
 
 <p align="center"> A desktop app for keeping track of your houseplants, built with C++17 and Qt. Add plants, log their care, and check weather conditions, all stored locally on your machine. </p>
 

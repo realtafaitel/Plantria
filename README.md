@@ -1,11 +1,11 @@
 # 🌱 Plantria (Originally Plant Health Plus) 
-_note: that's plant and alexandria (as in the Library of Alexandria) merged together_
+<p align="center"> _note: that's plant and alexandria (as in the Library of Alexandria) merged together_ </p>
  
 <p align="center">
   <img src="image.jpg" alt="New Splash"/>
 </p>
 
-A desktop app for keeping track of your houseplants, built with C++17 and Qt. Add plants, log their care, and check weather conditions, all stored locally on your machine.
+<p align="center"> A desktop app for keeping track of your houseplants, built with C++17 and Qt. Add plants, log their care, and check weather conditions, all stored locally on your machine. </p>
 
 ## Current To-do List
 - Replace deprecated HTML scraping with proper Weather-based API capabilities; there's better ways to collect the information needed for this app.

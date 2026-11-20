@@ -3,7 +3,7 @@
 </p>
 <p align="center"><i> note: that's plant and alexandria (as in the Library of Alexandria) merged together </i></p>
 
-<p align="center"> A desktop app for keeping track of your houseplants, built with C++17 and Qt. Add plants, log their care, and check weather conditions, all stored locally on your machine. </p>
+<p align="center"> A personal-use desktop app for keeping track of your houseplants, built with C++17 and Qt. Add plants, log their care, check how they're affected by local weather conditions (and recommended actions you can take), all stored locally on your machine. </p>
 
 ## Current To-do List
 - Replace deprecated HTML scraping with proper Weather-based API capabilities; there's better ways to collect the information needed for this app.
